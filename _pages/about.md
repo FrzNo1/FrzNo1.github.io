@@ -2,9 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: B.S. at <a href='https://www.columbia.edu/'>Columbia University</a> in <a href='https://compeng.columbia.edu/'>Computer Engineering</a>  
-		  Part-Time SDE at <a href='https://www.sw.siemens.com/en-US/'>Siemens</a>  
-		  Teaching & Research Assistant at <a href='https://www.columbia.edu/'>Columbia University</a>  
+subtitle: B.S. at <a href='https://www.columbia.edu/'>Columbia University</a> in <a href='https://compeng.columbia.edu/'>Computer Engineering</a>
+		  # Part-Time SDE at <a href='https://www.sw.siemens.com/en-US/'>Siemens</a>  
+		  # Teaching & Research Assistant at <a href='https://www.columbia.edu/'>Columbia University</a>  
 
 profile:
   align: right
