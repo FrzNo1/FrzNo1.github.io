@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 4th year Computer Engineering student at <a href='https://www.columbia.edu/'>Columbia University</a>
 
 profile:
   align: right
