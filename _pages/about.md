@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Senior <a href='https://compeng.columbia.edu/'>Computer Engineering</a> Student at <a href='https://www.columbia.edu/'> Columbia University</a>
-Part-Time SDE at <a href='https://www.sw.siemens.com/en-US/'>Siemens</a>
+Part-Time SDE at <a href='https://www.sw.siemens.com/en-US/'>Siemens AG</a>
 Teaching & Research Assistant at <a href='https://www.columbia.edu/'>Columbia University</a>
 
 
@@ -12,17 +12,16 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>30 Morningside Drive</p>
+    <p>New York, New York 10025</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a senior at [Columbia University](https://www.columbia.edu/) majoring in [Computer Engineering](https://compeng.columbia.edu/). I am also a Teaching Assistant & Research Assistant at Columbia, and a part-time Software Engineer at [Siemens AG](https://www.siemens.com/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+At Siemens AG, I contribute to the Digital Industry Software Division(DISW), where I develop, design, and code for [NX](https://plm.sw.siemens.com/en-US/nx/), a leading CAD tool utilized by major companies such as [SpaceX](https://www.spacex.com/) and [Mercedes-Benz](https://www.mbusa.com/). My team, the Knowledge Industry Application (KIA) group, is based in California and is known for its excellence in innovation.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+This semester, I am also a Teaching Assistant for [COMS W4118 Operating Systems I](https://www.cs.columbia.edu/~nieh/teaching/w4118/) and a Research Assistant under Professor [Kostis Kaffes](https://www.cs.columbia.edu/~kkaffes/), focusing on GPU scheduling. Previously, I worked as a Research Assistant with Professors [Jeffrey Blanchard](https://blanchard.math.grinnell.edu/) and [Charlie Curtsinger](https://curtsinger.cs.grinnell.edu/) at [Grinnell College](https://www.grinnell.edu/). For more details on my research, please visit the Research section of my profile.
