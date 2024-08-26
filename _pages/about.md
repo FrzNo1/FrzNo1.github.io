@@ -3,10 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle:
-  Senior <a href='https://compeng.columbia.edu/'>Computer Engineering</a> Student at <a href='https://www.columbia.edu/'> Columbia University</a>  
-  Part-Time SDE at <a href='https://www.sw.siemens.com/en-US/'>Siemens AG</a>  
-  Teaching & Research Assistant at <a href='https://www.columbia.edu/'>Columbia University</a>  
-
 
 profile:
   align: right
@@ -20,6 +16,9 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Senior <a href='https://compeng.columbia.edu/'>Computer Engineering</a> Student at <a href='https://www.columbia.edu/'> Columbia University</a>
+Part-Time SDE at <a href='https://www.sw.siemens.com/en-US/'>Siemens AG</a>
+Teaching & Research Assistant at <a href='https://www.columbia.edu/'>Columbia University</a>
 
 I am a senior at [Columbia University](https://www.columbia.edu/) majoring in [Computer Engineering](https://compeng.columbia.edu/). I am also a Teaching Assistant & Research Assistant at Columbia, and a part-time Software Engineer at [Siemens AG](https://www.siemens.com/).
 
