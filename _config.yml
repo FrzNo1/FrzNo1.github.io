@@ -48,7 +48,7 @@ rss_icon: true
 navbar_fixed: true
 footer_fixed: true
 search_enabled: false
-socials_in_search: true
+socials_in_search: false
 
 # Dimensions
 max_width: 930px
@@ -83,7 +83,7 @@ kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: # your LinkedIn user name
+linkedin_username: ruizhe-fu # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
 orcid_id: # your ORCID ID
