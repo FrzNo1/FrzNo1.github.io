@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Senior <a href='https://compeng.columbia.edu/'>Computer Engineering</a> Student, TA & RA at <a href='https://www.columbia.edu/'> Columbia University</a> |
+  Senior CE Student, TA & RA at <a href='https://www.columbia.edu/'> Columbia University</a>  |  
   Part-Time SDE at <a href='https://www.sw.siemens.com/en-US/'>Siemens AG</a>
 
 profile:
