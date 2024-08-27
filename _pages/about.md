@@ -2,6 +2,10 @@
 layout: about
 title: about
 permalink: /
+subtitle: >
+  <p>Senior <a href='https://compeng.columbia.edu/'>Computer Engineering</a> Student at <a href='https://www.columbia.edu/'> Columbia University</a></p>
+  <p>Part-Time SDE at <a href='https://www.sw.siemens.com/en-US/'>Siemens AG</a></p>
+  <p>Teaching & Research Assistant at <a href='https://www.columbia.edu/'>Columbia University</a></p>
 
 profile:
   align: right
