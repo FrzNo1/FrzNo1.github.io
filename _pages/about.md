@@ -19,9 +19,6 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Senior [Computer Engineering](https://compeng.columbia.edu/) Student at [Columbia University](https://www.columbia.edu/)
-Part-Time SDE at [Siemens AG](https://www.sw.siemens.com/en-US/)
-Teaching & Research Assistant at [Columbia University](https://www.columbia.edu/)
 
 I am a senior at [Columbia University](https://www.columbia.edu/) majoring in [Computer Engineering](https://compeng.columbia.edu/). I am also a Teaching Assistant & Research Assistant at Columbia, and a part-time Software Engineer at [Siemens AG](https://www.siemens.com/).
 
