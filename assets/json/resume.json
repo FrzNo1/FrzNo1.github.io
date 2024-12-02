@@ -77,7 +77,7 @@
       "url": "https://example.com"
     }
   ],
-  "Researches": [
+  "researches": [
     {
       "name": "Digital Industry Software, Siemens AG",
       "position": "Software Engineer",
