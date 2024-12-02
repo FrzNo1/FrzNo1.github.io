@@ -34,16 +34,16 @@
       "endDate": "2025-05-16",
       "score": "10"
     },
-	{
-		"institution": "Grinnell College",
-		"location": "Grinnell, IA",
-		"url": "https://www.grinnell.edu/",
-		"area": "Computer Science",
-		"studyType": "Bachelor of Art",
-		"startDate": "2020-08-24",
-		"endDate": "2023-05-19",
-		"score": "10"
-	}
+    {
+      "institution": "Grinnell College",
+      "location": "Grinnell, IA",
+      "url": "https://www.grinnell.edu/",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Art",
+      "startDate": "2020-08-24",
+      "endDate": "2023-05-19",
+      "score": "10"
+    }
   ],
   "publications": [
     {
