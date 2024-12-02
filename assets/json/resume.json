@@ -79,12 +79,12 @@
   ],
   "Researches": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
+		"name": "Digital Industry Software, Siemens AG",
+		"position": "Software Engineer",
+		"url": "https://www.sw.siemens.com/en-US/",
+		"startDate": "2024-05-13",
+		"endDate": "2024-12-06",
+		"summary": "Software Engineer for NX, a leading CAD tool."
+	}
   ]
 }

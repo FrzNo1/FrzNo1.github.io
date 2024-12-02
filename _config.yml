@@ -613,6 +613,7 @@ jekyll_get_json:
 jsonresume:
   - basics
   - work
+  - researches
   - education
   - publications
   - projects
