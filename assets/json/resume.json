@@ -79,12 +79,12 @@
   ],
   "Researches": [
     {
-		"name": "Digital Industry Software, Siemens AG",
-		"position": "Software Engineer",
-		"url": "https://www.sw.siemens.com/en-US/",
-		"startDate": "2024-05-13",
-		"endDate": "2024-12-06",
-		"summary": "Software Engineer for NX, a leading CAD tool."
-	}
+      "name": "Digital Industry Software, Siemens AG",
+      "position": "Software Engineer",
+      "url": "https://www.sw.siemens.com/en-US/",
+      "startDate": "2024-05-13",
+      "endDate": "2024-12-06",
+      "summary": "Software Engineer for NX, a leading CAD tool."
+    }
   ]
 }
