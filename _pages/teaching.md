@@ -3,13 +3,19 @@ layout: page
 permalink: /teaching/
 title: teaching
 nav: true
-nav_order: 6
+nav_order: 5
 ---
 
-Columbia University(TA):
+# Teaching
 
-Fall 2024: COMS W4118 Operating System I
+## 🏫 Columbia University
+**Teaching Assistant (TA)**  
+**Fall 2024**: *COMS W4118 Operating System I*  
 
-Grinnell College(TA):
+---
 
-Spring 2023: CSC 207 Object-Oriented Problem Solving, Data Structure, and Algorithms
+## 🏫 Grinnell College
+**Teaching Assistant (TA)**  
+**Spring 2023**: *CSC 207: Object-Oriented Problem Solving, Data Structures, and Algorithms*  
+
+---
