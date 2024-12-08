@@ -3,8 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  Senior CE Student, TA & RA at <a href='https://www.columbia.edu/'> Columbia University</a>  |  
-  Part-Time SDE at <a href='https://www.sw.siemens.com/en-US/'>Siemens AG</a>
+  <Strong>Senior CE Student, TA & RA at <a href='https://www.columbia.edu/'> Columbia University</a>  |  
+  Part-Time SDE at <a href='https://www.sw.siemens.com/en-US/'>Siemens AG</a></strong>
 
 profile:
   align: right
