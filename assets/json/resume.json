@@ -39,7 +39,7 @@
     {
       "name": "Fast Distribtued Selection with Graphics Processing Units",
       "publisher": "IEEE Open Journal of the Computer Society, Under Review",
-      "releaseDate": "2024-12-3",
+      "releaseDate": "2024-12-03",
       "url": "",
       "summary": "We introduce two completely parallel algorithms for exactly solving the distributed multiple order statistic problem. The main algorithm, DIBMS, keeps communication costs proportional to the number of order statistics with minimal communication of actual data. Moreover, the work done at the remote nodes is fully parallelized on graphics processing units."
     }
@@ -56,7 +56,7 @@
   ],
   "researches": [
     {
-      "name": "Columbia University, advised by Professor [Kostis Kaffes](https://www.cs.columbia.edu/~kkaffes/)",
+      "name": "Columbia University, advised by Professor Kostis Kaffes",
       "position": "Enhancing the Underlying System of Large Language Models",
       "url": "",
       "startDate": "2024-09-04",
@@ -65,7 +65,7 @@
       "highlights": ["High-Performance Systems", "Large Language Model"]
     },
     {
-      "name": "Grinnell College, advised by Professor [Jeffrey Blanchard](https://blanchard.math.grinnell.edu/)",
+      "name": "Grinnell College, advised by Professor Jeffrey Blanchard",
       "position": "Fast Distributed Selection with Graphics Processing Units",
       "url": "https://github.com/FrzNo1/GGMS-Distributed",
       "startDate": "2022-05-20",
@@ -74,7 +74,7 @@
       "highlights": ["Distributed System", "Graphics Processing Unit"]
     },
     {
-      "name": "Grinnell College, advised by Professor [Charlie Curtsinger](https://curtsinger.cs.grinnell.edu/)",
+      "name": "Grinnell College, advised by Professor Charlie Curtsinger",
       "position": "Riker: Always-Correct and Fast Incremental Builds",
       "url": "https://github.com/curtsinger-lab/riker",
       "startDate": "2023-05-20",
