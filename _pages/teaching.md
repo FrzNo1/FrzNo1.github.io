@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+---
+
 **Columbia University**  
 _Fall 2024_ [COMS W4118: Operating System I](https://www.cs.columbia.edu/~nieh/teaching/w4118/) (teaching assistant)
 
