@@ -71,7 +71,7 @@
       "startDate": "2022-05-20",
       "endDate": "2024-12-01",
       "summary": "Extracting multiple order statistics from a huge, distributed data set provides important information about the distribution of the values in the full set of data. We proposed an algorithm, DistributedIterativeBucketMultiSelect, or DIBMS, which selects the percentile from a data set of 268 million values distributed at eight locations in less than a quarter of a second.",
-      "highlights": ["Distributed System", "Graphics Processing Unit"]
+      "highlights": ["Distributed System", "Graphics Processing Unit", "Parallel Computing"]
     },
     {
       "name": "Grinnell College, advised by Professor Charlie Curtsinger",
