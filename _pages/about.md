@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
   Senior CE Student, TA & RA at <a href='https://www.columbia.edu/'> Columbia University</a>  |  
