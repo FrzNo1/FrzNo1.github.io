@@ -7,14 +7,17 @@ nav_order: 5
 ---
 
 ### Columbia University
+
 ---
+
 **Teaching Assistant (TA)**
 
 _Fall 2024_ [COMS W4118: Operating System I](https://www.cs.columbia.edu/~nieh/teaching/w4118/)
 
-
 ### Grinnell College
+
 ---
+
 **Teaching Assistant (TA)**
 
 _Spring 2023_ [CSC 207: Object-Oriented Problem Solving, Data Structures, and Algorithms](https://eliott-fernanda.cs.grinnell.edu/home/207_java/)  
