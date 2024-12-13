@@ -40,7 +40,7 @@
       "name": "Fast Distribtued Selection with Graphics Processing Units",
       "publisher": "IEEE Open Journal of the Computer Society, Under Review",
       "releaseDate": "2024-12-03",
-      "url": "",
+      "url": "https://blanchard.math.grinnell.edu/home/research/fast-distributed-selection-with-graphics-processing-units/",
       "summary": "We introduce two completely parallel algorithms for exactly solving the distributed multiple order statistic problem. The main algorithm, DIBMS, keeps communication costs proportional to the number of order statistics with minimal communication of actual data. Moreover, the work done at the remote nodes is fully parallelized on graphics processing units."
     }
   ],
