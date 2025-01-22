@@ -10,7 +10,7 @@ nav_order: 3
 ---
 
 **Columbia University**  
-_Spring 2025_ [COMS W4118: Operating System I](https://columbia-os.github.io/2025-1/) (teaching assistant)
+_Spring 2025_ [COMS W4118: Operating System I](https://columbia-os.github.io/2025-1/) (teaching assistant)  
 _Fall 2024_ [COMS W4118: Operating System I](https://www.cs.columbia.edu/~nieh/teaching/w4118/) (teaching assistant)
 
 **Grinnell College**  
